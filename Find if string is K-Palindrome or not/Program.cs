@@ -2,6 +2,9 @@
 
 namespace Find_if_string_is_K_Palindrome_or_not
 {
+    // https://www.geeksforgeeks.org/find-if-string-is-k-palindrome-or-not/
+    // https://www.youtube.com/watch?v=We3YDTzNXEk
+    // https://www.youtube.com/watch?v=GhoU-V41XQY
     class Program
     {
         static void Main(string[] args)
